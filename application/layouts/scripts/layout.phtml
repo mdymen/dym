@@ -1,5 +1,12 @@
 <?php
-            echo $this->render('_head.php');
+            $uri = Zend_Controller_Front::getInstance()->getRequest()->getRequestUri();
+            $url  =   explode("/", $uri);
+
+            if (empty($url[4])){            
+                echo $this->render('_head.php');
+            } else {
+                echo $this->render('_head2.php');
+            }
             
             echo $this->layout()->content;
             

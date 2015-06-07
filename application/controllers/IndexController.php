@@ -15,5 +15,7 @@ class indexController extends Zend_Controller_Action
     
     public function acabarAction() {}
     
+    public function sobremimAction() {}
+    
 }
 
