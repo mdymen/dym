@@ -8,6 +8,11 @@ and open the template in the editor.
     <head>
         <meta charset="ISO-8859-1">
         <title></title>
+        
+        <script type="text/javascript" src="dymenstein/public/jquery/jquery-1.8.3.js"></script>
+        <script type="text/javascript" src="dymenstein/public/jquery/jquery-ui-1.9.2.custom.js"></script>
+        <script type="text/javascript" src="dymenstein/public/jquery/jquery-ui-1.9.2.custom.min.js"></script>
+        
     </head>
     <body>
         <?php
@@ -15,3 +20,11 @@ and open the template in the editor.
         ?>
     </body>
 </html>
+
+<script type="text/javascript"> 
+
+    $(function() {
+        window.location = "http://www.dymenstein.com/dymenstein/public"
+    })
+
+</script>
