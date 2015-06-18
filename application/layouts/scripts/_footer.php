@@ -1,5 +1,4 @@
-<?php
+</body>
+</html>
 
-echo "FOOTER";
 
-?>
