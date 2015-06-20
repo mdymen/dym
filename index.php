@@ -7,11 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="ISO-8859-1">
-        <title></title>
+        <title>Dymenstein consultoria</title>
         
-        <script type="text/javascript" src="dymenstein/public/jquery/jquery-1.8.3.js"></script>
-        <script type="text/javascript" src="dymenstein/public/jquery/jquery-ui-1.9.2.custom.js"></script>
-        <script type="text/javascript" src="dymenstein/public/jquery/jquery-ui-1.9.2.custom.min.js"></script>
+        <script type="text/javascript" src="dym/public/jquery/jquery-1.8.3.js"></script>
+        <script type="text/javascript" src="dym/public/jquery/jquery-ui-1.9.2.custom.js"></script>
+        <script type="text/javascript" src="dym/public/jquery/jquery-ui-1.9.2.custom.min.js"></script>
         
     </head>
     <body>
@@ -24,7 +24,7 @@ and open the template in the editor.
 <script type="text/javascript"> 
 
     $(function() {
-        window.location = "http://www.dymenstein.com/dymenstein/public"
+        window.location = "http://www.dymenstein.com/dym/public"
     })
 
 </script>
