@@ -12,7 +12,9 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Dymen Consultoria</title>
+        <link rel="shortcut icon" href="/dym/public/images/trebol.png" type="image/x-icon">
+        
+        <title>Dymenstein consultoria</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
